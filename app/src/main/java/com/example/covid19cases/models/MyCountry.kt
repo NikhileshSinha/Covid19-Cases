@@ -1,6 +1,4 @@
 package com.example.covid19cases.models
-
-
 import com.google.gson.annotations.SerializedName
 
 data class MyCountry(
